@@ -41,6 +41,8 @@ body {
   }
   .para{
     display: flex;
+      padding-bottom: 10px;
+    padding-left: 20px; 
   
 font-size: 25px;
 color: rgb(48, 42, 42);
