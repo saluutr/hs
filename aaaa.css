@@ -1,0 +1,28 @@
+.movie img{
+    display: flex;
+    width: 600px;
+    height: 200px;
+
+}
+.movie{
+    display: flex;
+  border-radius: 25px;
+  width: 200px;
+  height: 250px;
+background-color: gray;
+}
+.para{
+    display: flex;
+      padding-bottom: 10px;
+    padding-left: 20px; 
+  
+font-size: 25px;
+color: rgb(48, 42, 42);
+padding: 0%;
+
+}
+.list{
+    display: flex;
+    gap: 10px;
+  
+}

@@ -12,6 +12,9 @@ header{
     color: red;
     font-size:30px ;
 }
+body > header > nav{
+  color: white;
+}
 body {
     background-color: black;
   }
@@ -25,11 +28,13 @@ body {
   .navbar2{
     display: flex;
     gap: 20px;
-
+    color: white;
 }
 .container{
     display: flex;
     gap: 30px;
+    color: aliceblue;
+
 }
   .aaa{
     display: flex;
@@ -96,4 +101,9 @@ background-color: gray;
     align-items: center;
     justify-content: center;
     transition: none;
+}
+.movie img{
+  width:500px ;
+  height: 300px;
+  display: flex;
 }
