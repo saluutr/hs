@@ -7,9 +7,11 @@
 .movie{
     display: flex;
   border-radius: 25px;
-  width: 200px;
-  height: 250px;
+  width: 100px;
+  height: 150px;
 background-color: gray;
+gap: 50PX;
+overflow: hidden;
 }
 .para{
     display: flex;

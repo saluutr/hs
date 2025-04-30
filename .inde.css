@@ -1,0 +1,40 @@
+
+.main{
+    background-color: #ffffff;
+   
+    padding: 20px;
+}
+.headerbar{
+    background-color: #85f307;
+    padding: 10px;
+    border-bottom: 1px solid #dee2e6;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+.container{
+    display: flex;
+    padding-top:50px;
+    border-radius: 5px;
+    border: #85f307;
+
+}
+.sidebar{
+padding-left: 20px;
+border: rgb(44, 44, 44) ;
+border-radius: 5px;
+
+}
+.content{
+    padding-left: 200px;
+}
+footer{
+    background-color: rgb(68, 68, 68);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 15px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;;
+    
+}

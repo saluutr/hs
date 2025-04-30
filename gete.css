@@ -1,0 +1,45 @@
+.navbar{
+    width:  100%;
+    top: 0;
+    justify-content:center ;
+    align-items: center;
+    padding:2px 5px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    position: fixed;
+    margin-top: 0%;
+}
+
+.sidebar{
+    text-align: center;
+    color: aliceblue;
+    padding-right: 100px;
+    color: black;
+}
+
+.main content {
+    text-align: center;
+    color: aliceblue;
+    padding-left: 200px;
+}
+.navs{
+    padding: 20px;
+}
+.container{
+    display: flex;
+    padding-top: 50px;
+    height: 2000;
+}
+.text{
+    padding-left: 120px;
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+    margin-left: 500px;
+}
+.section header{
+    position: sticky;
+    font-weight: bold;
+    top: 70px;
+}
